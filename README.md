@@ -150,7 +150,7 @@
 
 *Пример выборочного запуска только LightHouse:*
 ```bash
-ansible-playbook -i inventory/prod.yml site.yml --tags "lighthouse"
+ansible-playbook -i inventory/prod.ini site.yml --tags "lighthouse"
 ```
 
 ---
