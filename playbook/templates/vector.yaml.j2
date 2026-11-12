@@ -1,0 +1,13 @@
+sources:
+  dummy_logs:
+    type: "demo_logs"
+    format: "json"
+    interval_ms: 1000
+
+sinks:
+  console_output:
+    type: "console"
+    inputs:
+      - "dummy_logs"
+    encoding:
+      codec: "json"
