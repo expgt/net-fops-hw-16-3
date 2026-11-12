@@ -39,7 +39,7 @@
 
 ![8](https://github.com/expgt/net-fops-hw-16-3/blob/main/16_3_8.png)
 
-9. Подготовлен README.md-файл с описанием, что делает playbook, какие у него есть параметры и теги.
+9. Подготовлен [README.md-файл](https://github.com/expgt/net-fops-hw-16-3/blob/08-ansible-03-yandex/README.md#ansible-playbook-clickhouse-vector--lighthouse-deployment) с описанием, что делает playbook, какие у него есть параметры и теги.
 
 10. Готовый playbook выложен в репозиторий, поставлен тег `08-ansible-03-yandex` на фиксирующий коммит.
 
